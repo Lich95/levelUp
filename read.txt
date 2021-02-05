@@ -1,15 +1,9 @@
 本地创建好分支文件夹和文件
-
 git branch 分支名    新建分支
-
 git checkout 分支名   切换分支
-
 git rm -r 不想存新分支的文件(仅在本地删除为了提交hub 缓(远程)存还有)
-
 git add . (添加新分支的文件)
-
 git commit -m '注释'
-
 git push origin 新分支名
 
 
