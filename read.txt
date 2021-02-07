@@ -8,7 +8,7 @@ git push origin 新分支名
 
 
 
-git branch -d 分支名   删除本地的分支
+git branch -D 分支名   删除本地的分支
 git branch  -r -d origin/分支名  删除缓存(远程)的分支
 git push origin :分支名  删除github上的分支
 
