@@ -11,5 +11,8 @@
   "private": true,
   "devDependencies": {
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "mime": "^2.5.0"
   }
 }
